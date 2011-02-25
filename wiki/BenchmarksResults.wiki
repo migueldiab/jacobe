@@ -43,8 +43,14 @@ Running with
 
 = Charts =
 
-http://i53.tinypic.com/k03s3r.jpg
+== 10k records / 10 runs ==
 
-http://i51.tinypic.com/dfuc1.jpg
+http://i55.tinypic.com/ou74vm.jpg
 
-http://i55.tinypic.com/30203sp.jpg
+== 110k records / 10 runs ==
+
+http://i56.tinypic.com/11m59gw.jpg
+
+== 1.11m records / 10 runs ==
+
+http://i51.tinypic.com/9icsqo.jpg
